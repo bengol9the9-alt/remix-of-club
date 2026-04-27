@@ -57,8 +57,8 @@ const Contact = () => {
             </div>
             <div>
               <div className="font-mono text-[11px] uppercase tracking-widest text-neon-cyan mb-2">Contact</div>
-              <a href="mailto:door@pulse09.club" className="font-mono text-sm hover:text-neon-pink transition-colors block">door@pulse09.club</a>
-              <a href="#" className="font-mono text-sm hover:text-neon-pink transition-colors block">@pulse09.berlin</a>
+              <a href="mailto:door@tecnom.club" className="font-mono text-sm hover:text-neon-pink transition-colors block">door@tecnom.club</a>
+              <a href="#" className="font-mono text-sm hover:text-neon-pink transition-colors block">@tecnom.berlin</a>
             </div>
           </div>
         </div>

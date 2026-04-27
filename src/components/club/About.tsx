@@ -22,7 +22,7 @@ const About = () => {
 
         <div className="col-span-12 md:col-span-6 md:col-start-7 space-y-8">
           <p className="text-xl leading-relaxed text-foreground/80">
-            Hidden behind an unmarked door in an old power station, PULSE/09 has been the city's most defiant dance floor since 2009. No phones on the floor. No dress code. No genre. Just an obsession with sound, light, and the people who chase them until sunrise.
+            Hidden behind an unmarked door in an old power station, TECNOM has been the city's most defiant dance floor since 2009. No phones on the floor. No dress code. No genre. Just an obsession with sound, light, and the people who chase them until sunrise.
           </p>
           <p className="text-foreground/60 leading-relaxed">
             Built around a custom-tuned Funktion-One rig and a 14-meter laser canopy, every room is engineered for one thing: dissolving the space between the body and the bass.
