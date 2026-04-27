@@ -12,7 +12,7 @@ const Index = () => {
   return (
     <main className="min-h-screen bg-background text-foreground overflow-x-hidden">
       <Nav />
-      <h1 className="sr-only">PULSE/09 — Berlin Underground Nightclub & Disco</h1>
+      <h1 className="sr-only">TECNOM — Berlin Underground Nightclub & Disco</h1>
       <Hero />
       <Marquee />
       <About />

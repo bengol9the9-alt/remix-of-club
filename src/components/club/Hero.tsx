@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="absolute inset-0">
         <img
           src={hero}
-          alt="PULSE/09 nightclub crowd under magenta and cyan lasers"
+          alt="TECNOM nightclub crowd under magenta and cyan lasers"
           width={1920}
           height={1280}
           className="h-full w-full object-cover scale-105"
